@@ -6,3 +6,9 @@ I began my web development journey by building a basic login form using only HTM
 Now, I'm learning how to style my pages using CSS.
 This project — a minimal, journal-inspired layout — is my first attempt at combining HTML with CSS.
 I'm excited to keep learning and improving, one step at a time!
+
+
+
+## 🔍 Preview
+
+Here’s how the output looks:
