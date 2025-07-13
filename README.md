@@ -12,3 +12,4 @@ I'm excited to keep learning and improving, one step at a time!
 ## 🔍 Preview
 
 Here’s how the output looks:
+![output](https://github.com/Deepachoudhary24/journal-webpage/blob/main/output.png?raw=true)
